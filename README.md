@@ -1,1 +1,1 @@
-<center> ![nvim.png](neovim) </center>
+![neovim](nvim.png)
