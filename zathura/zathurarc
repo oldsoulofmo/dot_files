@@ -1,3 +1,6 @@
+set selection-clipboard clipboard
+set selection-notification false
+
 set completion-group-bg         "#282828"
 set completion-group-fg         "#ebdbb2"
 set completion-bg               "#282828"
@@ -30,10 +33,10 @@ set default-bg                  "#1d2021"
 set default-fg                  "#001512"
 set recolor-lightcolor          "#282828"
 set recolor-darkcolor           "#ebdbb2"
-
 set statusbar-h-padding 0
 set statusbar-v-padding 0
 set page-padding 1
+
 map u scroll half-up
 map d scroll half-down
 map D toggle_page_mode
