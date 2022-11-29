@@ -8,12 +8,15 @@ vim.cmd([[packadd packer.nvim]])
 
 packer.startup(function(use)
 	use("wbthomason/packer.nvim")
-	use 'sainnhe/gruvbox-material'
 	use("nvim-lualine/lualine.nvim") 
 	use("nvim-lua/plenary.nvim") 
+	use("morhetz/gruvbox")
+	use 'lervag/vimtex'
+	use('airblade/vim-gitgutter')
 	use("onsails/lspkind-nvim")
 	use("hrsh7th/cmp-buffer") 
 	use("hrsh7th/cmp-nvim-lsp") 
+	use('tpope/vim-commentary')
 	use("hrsh7th/nvim-cmp") 
 	use("neovim/nvim-lspconfig") 
 	use("saadparwaiz1/cmp_luasnip")
