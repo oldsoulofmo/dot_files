@@ -27,4 +27,11 @@ highlight GitGutterDelete guibg=#1d2021  guifg=#f08080 ctermfg=1
 
 highlight DiagnosticError guifg=#e63946 ctermfg=1
 
+highlight BufferLineBackground guibg=#1d2021
+highlight BufferLineFill guibg=#1d2021
+highlight BufferLineNumbers guibg=#1d2021
+highlight BufferLineSeparator guifg=#e63946 guibg=#1d2021
+highlight BufferLineBufferSelected cterm=bold,italic gui=bold,italic guifg=#CE7777
+highlight BufferLineNumbersSelected cterm=bold,italic gui=bold,italic guifg=#CE7777
+
 ]])
