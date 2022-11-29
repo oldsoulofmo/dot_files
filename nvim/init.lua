@@ -24,4 +24,7 @@ highlight SignColumn 	  guibg=#1d2021 		ctermbg=1
 highlight GitGutterAdd 	  guibg=#1d2021  guifg=#7cb518 ctermfg=2
 highlight GitGutterChange guibg=#1d2021  guifg=#f4a261 ctermfg=3
 highlight GitGutterDelete guibg=#1d2021  guifg=#f08080 ctermfg=1
+
+highlight DiagnosticError guifg=#e63946 ctermfg=1
+
 ]])
