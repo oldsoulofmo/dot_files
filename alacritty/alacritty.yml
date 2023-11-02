@@ -1,4 +1,7 @@
 window:
+  opacity: 0.92
+  border: 0
+  decorations: none
   padding:
     x: 5
     y: 5
